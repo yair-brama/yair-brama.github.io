@@ -1,36 +1,45 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yair Brama",
+    "label": "Project Manager/Data Enthusiast",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yair.brama@gmail.com",
+    "phone": "(972) 922-0384",
+    "url": "https://yair-brama.github.io/portfolio/",
+    "summary": "Experienced Software Delivery Manager and a Data Enthusiast, adept at overseeing international teams and implementing innovative solutions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "6740 Willow Ln",
+      "postalCode": "75230",
+      "city": "Dallas",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "yairbrama",
+        "url": "https://www.linkedin.com/in/yair-brama/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "FLYR Labs",
+      "position": "Delivery Manager (AI)",
+      "url": "https://flyr.com/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S. resolving issues throughout ETL process and providing technical assistance to live customers. Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs. Gained experience with data analytics tools and technologies – Python, BigQuery, Monte Carlo, and Looker. Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation",
+      "highlights": ["AI, ETL, GCP"]
+    },
+    {
+      "name": "Kornit Digital",
+      "position": "Professional Services Manager",
+      "url": "https://kornit.com/",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Defined scope of work (SOW) of all KornitX projects (SaaS) in North America, managed a team of Implementation Managers and Solution Architects. Supervised development and implementation of strategic projects of KornitX, including Canva.com (20+APIs, supporting 20M yearly orders) and Wix.com network of fulfillers for thousands of print-on-demand products",
+      "highlights": ["SaaS, e-commerce, APIs"]
     }
   ],
   "volunteer": [
