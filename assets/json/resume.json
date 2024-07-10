@@ -29,7 +29,11 @@
       "url": "https://flyr.com/",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": ["Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.", "Resolving issues throughout ETL process and providing technical assistance to live customers", "Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs", "Gained experience with data analytics tools and technologies – Python, BigQuery, Monte Carlo, and Looker.", "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"],
+      "summary": ["Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.", 
+                  "Resolving issues throughout ETL process and providing technical assistance to live customers", 
+                  "Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs", 
+                  "Gained experience with data analytics tools and technologies – Python, BigQuery, Monte Carlo, and Looker.", 
+                  "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"],
       "highlights": ["AI, ETL, GCP"]
     },
     {
@@ -47,7 +51,8 @@
       "url": "https://amdocs.com/",
       "startDate": "2016",
       "endDate": "2021",
-      "summary": ["Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs", "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"],
+      "summary": ["Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs", 
+                  "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"],
       "highlights": ["SLA, KPI, Data Visualization"]
     },
     {
@@ -56,7 +61,8 @@
       "url": "https://amdocs.com/",
       "startDate": "2013",
       "endDate": "2016",
-      "summary": ["Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects", "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"],
+      "summary": ["Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects", 
+                  "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"],
       "highlights": ["Business Requirements, Scrum, Product Owner"]
     },
     {
@@ -65,7 +71,8 @@
       "url": "https://exlibrisgroup.com/",
       "startDate": "2007",
       "endDate": "2013",
-      "summary": ["Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content", "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"],
+      "summary": ["Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content", 
+                  "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"],
       "highlights": ["System Design, Agile, Training"]
     },
     {
@@ -124,7 +131,7 @@
   "certificates": [
     {
       "name": "Google Cloud Certified - Professional Cloud Architect",
-      "date": "2020-02-19",
+      "date": "2020",
       "issuer": "Google",
       "url": "https://www.credential.net/f89de88e-187f-4193-a5a1-caae021b1e17?key=2948eb6eb864dbe626bdbb802f0f8acb7c102e29e00943850be290322312ae4e",
       "icon": "fa-solid fa-location-dot"
