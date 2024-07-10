@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yair-brama
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - yair-brama/yair-brama.github.io
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
