@@ -36,7 +36,7 @@
                   "Gained experience with data analytics tools and technologies – Python, BigQuery, Monte Carlo, and Looker.", 
                   "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"
                   ],
-      "highlights": ["AI, ETL, GCP"]
+      "highlights": ["Highlight skills -, AI, ETL, GCP"]
     },
     {
       "name": "Kornit Digital",
@@ -49,7 +49,7 @@
                   "Managed a team of Implementation Managers and Solution Architects.", 
                   "Supervised development and implementation of strategic projects of KornitX, including Canva.com (20+APIs, supporting 20M yearly orders) and Wix.com network of fulfillers for thousands of print-on-demand products"
                  ],
-      "highlights": ["SaaS, e-commerce, APIs"]
+      "highlights": ["Highlight skills -, SaaS, e-commerce, APIs"]
     },
     {
       "name": "Amdocs, Inc.",
@@ -61,7 +61,7 @@
                   "Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs", 
                   "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"
                  ],
-      "highlights": ["SLA, KPI, Data Visualization"]
+      "highlights": ["Highlight skills -, SLA, KPI, Data Visualization"]
     },
     {
       "name": "Amdocs, Inc.",
@@ -73,7 +73,7 @@
                   "Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects", 
                   "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"
                  ],
-      "highlights": ["Business Requirements, Scrum, Product Owner"]
+      "highlights": ["Highlight skills -, Business Requirements, Scrum, Product Owner"]
     },
     {
       "name": "Ex-Libris",
@@ -85,7 +85,7 @@
                   "Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content", 
                   "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"
                  ],
-      "highlights": ["System Design, Agile, Training"]
+      "highlights": ["Highlight skills -, System Design, Agile, Training"]
     },
     {
       "name": "Amdocs, Inc.",
@@ -94,7 +94,7 @@
       "startDate": "1999",
       "endDate": "2007",
       "summary": ["Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C"],
-      "highlights": ["UNIX, Oracle, SQL"]
+      "highlights": ["Highlight skills -, UNIX, Oracle, SQL"]
     }
   ],
   "volunteer": [
@@ -199,11 +199,11 @@
   ],
   "interests": [
     {
-      "name": "Running",
+      "name": "Long distance running",
       "icon": ""
     },
     {
-      "name": "History",
+      "name": "History buff",
       "icon": ""
     }
   ]
