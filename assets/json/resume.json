@@ -5,7 +5,7 @@
     "image": "",
     "email": "yair.brama@gmail.com",
     "phone": "(972) 922-0384",
-    "url": "https://yair-brama.github.io/portfolio/",
+    "url": "https://www.linkedin.com/in/yair-brama/",
     "summary": "Experienced Software Delivery Manager and a Data Enthusiast, adept at overseeing international teams and implementing innovative solutions.",
     "location": {
       "address": "6740 Willow Ln",
@@ -29,7 +29,7 @@
       "url": "https://flyr.com/",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": [
+      "keywords": [
                   "Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.", 
                   "Resolving issues throughout ETL process and providing technical assistance to live customers", 
                   "Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs", 
@@ -44,7 +44,7 @@
       "url": "https://kornit.com/",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": [
+      "keywords": [
                   "Defined scope of work (SOW) of all KornitX projects (SaaS) in North America", 
                   "Managed a team of Implementation Managers and Solution Architects.", 
                   "Supervised development and implementation of strategic projects of KornitX, including Canva.com (20+APIs, supporting 20M yearly orders) and Wix.com network of fulfillers for thousands of print-on-demand products"
@@ -57,7 +57,7 @@
       "url": "https://amdocs.com/",
       "startDate": "2016",
       "endDate": "2021",
-      "summary": [
+      "keywords": [
                   "Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs", 
                   "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"
                  ],
@@ -69,7 +69,7 @@
       "url": "https://amdocs.com/",
       "startDate": "2013",
       "endDate": "2016",
-      "summary": [
+      "keywords": [
                   "Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects", 
                   "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"
                  ],
@@ -81,7 +81,7 @@
       "url": "https://exlibrisgroup.com/",
       "startDate": "2007",
       "endDate": "2013",
-      "summary": [
+      "keywords": [
                   "Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content", 
                   "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"
                  ],
@@ -93,7 +93,7 @@
       "url": "https://amdocs.com/",
       "startDate": "1999",
       "endDate": "2007",
-      "summary": ["Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C"],
+      "keywords": ["Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C"],
       "highlights": ["UNIX, Oracle, SQL"]
     }
   ],
