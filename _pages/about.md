@@ -17,8 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+With over 20 years of experience in software project management, business analysis, and solution architecture, and a focus on AI and e-commerce, I am a seasoned professional who operates as liaison between developers, managers and customers. I hold a Master of Business Administration (MBA), a Bachelor’s Degree in Computer Science, and I am a Google Cloud Certified Professional Cloud Architect. As a lifetime learner, currently I am acquiring a Post Graduate Certificate in Data Science and Business Analytics from McCombs School of Business at UT Austin (expected graduation - December 2024).
 
- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing  `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render  your [publications page](/al-folio/publications/) automatically.
+As Delivery Manager at FLYR Labs, a company that leverages AI to optimize revenue management and pricing for airlines, I managed an international delivery team of data analysts, data scientists, and data engineers, working towards one shared goal of transforming how airlines do business.
+ 
+As Professional Services Manager in Kornit Digital, a company that develops, manufactures and markets industrial digital technology, I led a team of implementation managers and solution architects across North America.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For 8 years, I worked at Amdocs, a leading software and services provider to communication and media companies, reporting directly to the regional VP while managing projects and teams internationally. 
+
+I enjoy integrating my prior technical skills into practical solutions, exploring and deploying innovative solution elements, and delivering value to executive level management and stakeholders.
