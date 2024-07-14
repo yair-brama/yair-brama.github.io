@@ -8,15 +8,17 @@ category: Airfares analysis
 related_publications: false
 ---
 
-As part of an interview process, I was given a data set of airfares as they are observed over 2 months. In the code below you can see the work I did to clean the data and prepare it for meaningful analysis and observation. 
-In the next page, I created a dashboard for visualizing the volatility and trending of airfares prices  The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
+As part of an interview process, I was given a data set of airfares as they are observed over 2 months. In the code below you can see the work I did to clean the data and prepare it for meaningful analysis and observation.<br> 
+I've calculated the volatility of the airfares of each flight based on the average and the standard deviation, and added the information to the data set so it can be used in viewing the trends of the prices over time. <br><br>
+
+In the other link, I created a dashboard for visualizing the airfares prices. The user can choose the flight market (e.g. BOSRIC - Boston to Richmond), the departure date, and even select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
 
 
 Here's the code for analyzing the data:
 
 {% raw %}
 
-<!DOCTYPE html>
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
