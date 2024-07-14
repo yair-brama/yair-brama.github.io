@@ -5,7 +5,7 @@ description: Link to a dynamic dashboard I created
 img: assets/img/Airfares plot.png
 redirect: https://yair-brama-airfares.onrender.com
 importance: 3
-category: work
+category: Airfares analysis
 ---
 
 Every project has a beautiful feature showcase page.
