@@ -5,7 +5,7 @@ description: My Data Science and Business Analytics course e-Portfolio
 img: assets/img/3.jpg
 redirect: https://eportfolio.mygreatlearning.com/yair-brama
 importance: 2
-category: work
+category: Course e-Portfolio
 giscus_comments: true
 ---
 
