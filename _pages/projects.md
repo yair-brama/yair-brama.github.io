@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [Airfares analysis, fun]
+display_categories: [Airfares analysis, Course e-Portfolio]
 horizontal: false
 ---
 
