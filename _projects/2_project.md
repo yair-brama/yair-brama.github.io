@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Data Science Course
 description: My Data Science and Business Analytics course e-Portfolio
-img: assets/img/3.jpg
+img: assets/img/9.jpg
 redirect: https://eportfolio.mygreatlearning.com/yair-brama
 importance: 2
 category: Course e-Portfolio
