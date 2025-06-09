@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Yair Brama",
-    "label": "Project Manager/Data Enthusiast",
+    "label": "Technical Project/Program Manager",
     "image": "",
     "email": "yair.brama@gmail.com",
     "phone": "(972) 922-0384",
     "url": "https://www.linkedin.com/in/yair-brama/",
-    "summary": "Experienced Software Delivery Manager and a Data Enthusiast, adept at overseeing international teams and implementing innovative solutions.",
+    "summary": "Experienced Technical Program/Project Manager and a Data Science Manager, adept at overseeing international teams and implementing innovative solutions.",
     "location": {
       "address": "6740 Willow Ln",
       "postalCode": "75230",
@@ -25,34 +25,35 @@
   "work": [
     {
       "name": "HB Partners, LLC",
-      "position": "Sr. Consultant",
+      "position": "Technical Program Manager",
       "url": "",
       "startDate": "2024",
       "endDate": "",
       "summary": [
-                  "Facilitating completion of due diligence process for a multi-million merger of confidential supply chain company", 
-                  "Synchronized documentation for regulatory approval and reconciliation of top 50 suppliers on a global basis"  
+                  "Facilitated the merging of back-office systems (HR, Finance, Sales), as part of a multi-million merger of 2 supply chain companies",
+                  "Ensured compliance and thorough analysis using statistical inference techniques", 
+                  "Synchronized documentation for regulatory approval and reconciled top 50 suppliers globally, improving compliance and operational efficiency through effective use of KPIs"  
                   ],
-      "highlights": ["Highlight skills - Project management, Mentoring, Business Processes"]
+      "highlights": ["Highlight skills - Program management, Mentoring, Business Processes"]
     },
     {
       "name": "FLYR Labs",
-      "position": "Delivery Manager (AI)",
+      "position": "Data Science Manager",
       "url": "https://flyr.com/",
       "startDate": "2023",
       "endDate": "2023",
       "summary": [
-                  "Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.", 
-                  "Resolving issues throughout ETL process and providing technical assistance to live customers", 
-                  "Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs", 
-                  "Gained experience with data analytics tools and technologies – Python, BigQuery, Monte Carlo, and Looker.", 
+                  "Managed an international delivery team of data analysts, data scientists, and data engineers in the U.S. and Poland, improving project delivery timelines and team collaboration",
+                  "Implemented FLYR predictive analytics products, resolving issues throughout the ETL process, which enhanced data accuracy and reduced processing time",
+                  "Developed plans for hiring, training, and mentoring new and existing team members, defining team OKRs, which led to improved team performance and goal alignment",
+                  "Utilized data analytics tools and technologies such as Python, BigQuery, Monte Carlo, and Looker, leading to more efficient data processing and insightful reporting",
                   "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"
                   ],
-      "highlights": ["Highlight skills - AI, ETL, GCP"]
+      "highlights": ["Highlight skills - AI, ETL, GCP, Python, Data Science"]
     },
     {
       "name": "Kornit Digital",
-      "position": "Professional Services Manager",
+      "position": "Customer Success Manager, Solution Architect",
       "url": "https://kornit.com/",
       "startDate": "2021",
       "endDate": "2023",
@@ -65,7 +66,7 @@
     },
     {
       "name": "Amdocs, Inc.",
-      "position": "Project Manager",
+      "position": "Sr. Project Manager",
       "url": "https://amdocs.com/",
       "startDate": "2016",
       "endDate": "2021",
@@ -163,38 +164,65 @@
   ],
   "skills": [
     {
-      "name": "Software Development",
+      "name": "Data Visualization",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Power BI", 
+        "Plotly",
+        "Looker"
+      ]
+    },
+    {
+      "name": "Data Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "ETL", 
-        "Data Visualization", 
         "SQL", 
-        "Postman", 
-        "Power BI", 
-        "Airflow", 
+        "Oracle", 
+        "DBT", 
         "Google Cloud", 
         "BigQuery", 
-        "Monte Carlo", 
+        "Airflow", 
+        "Monte Carlo Simulations", 
+        "Hyperparameter Tuning",
+        "Python", 
         "SaaS", 
-        "Python"
-      ]
-    },
+        "UNIX"
+         ]
+    }, 
     {
-      "name": "Project Management",
+      "name": "Data Science and Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Agile", 
+        "Hypothesis Testing",
+        "A/B Testing", 
+        "Statistical Inference", 
+        "Linear/Logistic Regression", 
+        "Customer Profiling",
+        "Decision Trees", 
+        "Bagging (Random Forest)", 
+        "Boosting (AdaBoost, Gradient Boosting, XGBoost)", 
+        "Stacking"
+      ]
+    },
+    {
+      "name": "DevOps and Agile",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "JIRA", 
+        "Confluence", 
         "Scrum", 
         "Kanban", 
-        "Jira", 
-        "Monday.com", 
-        "DevOps", 
         "SRE", 
         "SLA", 
-        "KPIs"
-      ]
+        "OKRs", 
+        "KPIs", 
+        "Postman"
+         ]
     }
   ],
   "languages": [
