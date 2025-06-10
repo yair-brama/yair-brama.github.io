@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-With over 20 years of experience in software project and program management, business analysis, and solution architecture, and a focus on AI and e-commerce, I am a seasoned professional who operates as liaison between developers, managers and customers. I hold a Master of Business Administration (MBA), a Bachelor’s Degree in Computer Science, and I am a Google Cloud Certified Professional Cloud Architect. As a lifetime learner, currently I've acquired a Post Graduate Certificate in Data Science and Business Analytics from McCombs School of Business at UT Austin.
+With over 20 years of experience in software project and program management, business analysis, and solution architecture, and a focus on AI and e-commerce, I am a seasoned professional who operates as liaison between developers, managers and customers. I hold a Master of Business Administration (MBA), a Bachelor’s Degree in Computer Science, and I am a Google Cloud Certified Professional Cloud Architect. As a lifetime learner, I have recently acquired a Post Graduate Certificate in Data Science and Business Analytics from McCombs School of Business at UT Austin.
 
 As Data Science Delivery Manager at FLYR Labs, a company that leverages AI to optimize revenue management and pricing for airlines, I managed an international delivery team of data analysts, data scientists, and data engineers, working towards one shared goal of transforming how airlines do business.
  
