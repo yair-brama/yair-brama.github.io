@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-With over 20 years of experience in software project and program management, business analysis, and solution architecture, and a focus on AI and e-commerce, I am a seasoned professional who operates as liaison between developers, managers and customers. I hold a Master of Business Administration (MBA), a Bachelor’s Degree in Computer Science, and I am a Google Cloud Certified Professional Cloud Architect. As a lifetime learner, I have recently acquired a Post Graduate Certificate in Data Science and Business Analytics from McCombs School of Business at UT Austin.
+I'm a Solutions and Delivery Leader with 20+ years of experience driving complex, enterprise-scale initiatives across cloud, data, AI, and business systems in telecommunications, financial services, SaaS, and regulated environments.
 
-As Data Science Delivery Manager at FLYR Labs, a company that leverages AI to optimize revenue management and pricing for airlines, I managed an international delivery team of data analysts, data scientists, and data engineers, working towards one shared goal of transforming how airlines do business.
- 
-As Customer Success Manager and a Solution Architect in Kornit Digital, a company that develops, manufactures and markets industrial digital technology, I led a team of implementation managers and solution architects across North America.
+I specialize in owning end-to-end delivery—from solution definition and architecture through execution—leading global, cross-functional teams to deliver measurable business outcomes. My work spans defining product features, large-scale system integrations, predictive analytics platforms, and cloud-native data solutions.
 
-For 8 years, I worked at Amdocs, a leading software and services provider to communication and media companies, managing projects and teams internationally. 
+Recently, I designed and delivered an Azure-based, agentic-AI web application for large-scale financial data migration, automating 80% of migration effort and reducing per-client migration time by 70%. I've also led high-impact initiatives such as a Airflow orchestration upgrade for JetBlue on Google Cloud, introducing governance and release management at scale.
 
-I enjoy integrating my prior technical skills into practical solutions, exploring and deploying innovative solution elements, and delivering value to executive level management and stakeholders.
+Known as a trusted partner to executives and clients, I bring structure to ambiguity—aligning strategy, technology, and delivery while building and mentoring high-performing global teams. My background blends program management, solution architecture, data science, and cloud engineering, enabling me to bridge business goals with technical execution.
+
+Open to Solutions Leadership, Delivery Leadership, and Technical Program Management roles where execution, scale, and impact matter.
