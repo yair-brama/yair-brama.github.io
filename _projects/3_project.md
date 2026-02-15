@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Airfares Data Analysis
-description: Link to a dynamic dashboard I created 
+description: Link to a dynamic dashboard I created
 img: assets/img/Airfares plot.png
 redirect: https://yair-brama-airfares.onrender.com
 importance: 3
