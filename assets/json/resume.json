@@ -24,16 +24,29 @@
   },
   "work": [
     {
+      "name": "Moodys Northwest Consulting",
+      "position": "Senior Program Manager",
+      "url": "",
+      "startDate": "2025-07",
+      "endDate": "",
+      "summary": [
+        "Owned end-to-end solution definition and delivery for 700+ product features, translating complex business and customer needs into scalable, implementation-ready requirements (T-Mobile project)",
+        "Designed and delivered an Azure-based web application for large-scale data migration in financial services, leveraging agentic AI to automate 80% of migration effort and reduce per-client migration time by 70% (FIS Global project)",
+        "Partnered with executive and client stakeholders to drive data-driven decisions, roadmap prioritization, and delivery trade-offs"
+      ],
+      "highlights": ["Highlight skills - Program Management, Azure, Agentic AI, Data Migration"]
+    },
+    {
       "name": "HB Partners, LLC",
       "position": "Technical Program Manager",
       "url": "",
       "startDate": "2024",
       "endDate": "",
       "summary": [
-                  "Facilitated the merging of back-office systems (HR, Finance, Sales), as part of a multi-million merger of 2 supply chain companies",
-                  "Ensured compliance and thorough analysis using statistical inference techniques", 
-                  "Synchronized documentation for regulatory approval and reconciled top 50 suppliers globally, improving compliance and operational efficiency through effective use of KPIs"  
-                  ],
+        "Facilitated the merging of back-office systems (HR, Finance, Sales), as part of a multi-million merger of 2 supply chain companies",
+        "Ensured compliance and thorough analysis using statistical inference techniques",
+        "Synchronized documentation for regulatory approval and reconciled top 50 suppliers globally, improving compliance and operational efficiency through effective use of KPIs"
+      ],
       "highlights": ["Highlight skills - Program management, Mentoring, Business Processes"]
     },
     {
@@ -43,12 +56,12 @@
       "startDate": "2023",
       "endDate": "2023",
       "summary": [
-                  "Managed an international delivery team of data analysts, data scientists, and data engineers in the U.S. and Poland, improving project delivery timelines and team collaboration",
-                  "Implemented FLYR predictive analytics products, resolving issues throughout the ETL process, which enhanced data accuracy and reduced processing time",
-                  "Developed plans for hiring, training, and mentoring new and existing team members, defining team OKRs, which led to improved team performance and goal alignment",
-                  "Utilized data analytics tools and technologies such as Python, BigQuery, Monte Carlo, and Looker, leading to more efficient data processing and insightful reporting",
-                  "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"
-                  ],
+        "Managed an international delivery team of data analysts, data scientists, and data engineers in the U.S. and Poland, improving project delivery timelines and team collaboration",
+        "Implemented FLYR predictive analytics products, resolving issues throughout the ETL process, which enhanced data accuracy and reduced processing time",
+        "Developed plans for hiring, training, and mentoring new and existing team members, defining team OKRs, which led to improved team performance and goal alignment",
+        "Utilized data analytics tools and technologies such as Python, BigQuery, Monte Carlo, and Looker, leading to more efficient data processing and insightful reporting",
+        "Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation"
+      ],
       "highlights": ["Highlight skills - AI, ETL, GCP, Python, Data Science"]
     },
     {
@@ -58,10 +71,10 @@
       "startDate": "2021",
       "endDate": "2023",
       "summary": [
-                  "Defined scope of work (SOW) of all KornitX projects (SaaS) in North America", 
-                  "Managed a team of Implementation Managers and Solution Architects.", 
-                  "Supervised development and implementation of strategic projects of KornitX, including Canva.com (20+APIs, supporting 20M yearly orders) and Wix.com network of fulfillers for thousands of print-on-demand products"
-                 ],
+        "Defined scope of work (SOW) of all KornitX projects (SaaS) in North America",
+        "Managed a team of Implementation Managers and Solution Architects.",
+        "Supervised development and implementation of strategic projects of KornitX, including Canva.com (20+APIs, supporting 20M yearly orders) and Wix.com network of fulfillers for thousands of print-on-demand products"
+      ],
       "highlights": ["Highlight skills - SaaS, e-commerce, APIs"]
     },
     {
@@ -71,9 +84,9 @@
       "startDate": "2016",
       "endDate": "2021",
       "summary": [
-                  "Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs", 
-                  "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"
-                 ],
+        "Planned and managed data-driven projects (data pipelines, data visualization, dashboards) for business KPIs",
+        "Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs resulting in savings of $500,000/year in potential penalties"
+      ],
       "highlights": ["Highlight skills - SLA, KPI, Data Visualization"]
     },
     {
@@ -83,9 +96,9 @@
       "startDate": "2013",
       "endDate": "2016",
       "summary": [
-                  "Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects", 
-                  "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"
-                 ],
+        "Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects",
+        "Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync"
+      ],
       "highlights": ["Highlight skills - Business Requirements, Scrum, Product Owner"]
     },
     {
@@ -95,9 +108,9 @@
       "startDate": "2007",
       "endDate": "2013",
       "summary": [
-                  "Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content", 
-                  "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"
-                 ],
+        "Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content",
+        "Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic"
+      ],
       "highlights": ["Highlight skills - System Design, Agile, Training"]
     },
     {
@@ -106,7 +119,9 @@
       "url": "https://amdocs.com/",
       "startDate": "1999",
       "endDate": "2007",
-      "summary": ["Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C"],
+      "summary": [
+        "Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C"
+      ],
       "highlights": ["Highlight skills - UNIX, Oracle, SQL"]
     }
   ],
@@ -167,44 +182,40 @@
       "name": "Data Visualization",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Power BI", 
-        "Plotly",
-        "Looker"
-      ]
+      "keywords": ["Power BI", "Plotly", "Looker"]
     },
     {
       "name": "Data Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "ETL", 
-        "SQL", 
-        "Oracle", 
-        "DBT", 
-        "Google Cloud", 
-        "BigQuery", 
-        "Airflow", 
-        "Monte Carlo Simulations", 
+        "ETL",
+        "SQL",
+        "Oracle",
+        "DBT",
+        "Google Cloud",
+        "BigQuery",
+        "Airflow",
+        "Monte Carlo Simulations",
         "Hyperparameter Tuning",
-        "Python", 
-        "SaaS", 
+        "Python",
+        "SaaS",
         "UNIX"
-         ]
-    }, 
+      ]
+    },
     {
       "name": "Data Science and Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Hypothesis Testing",
-        "A/B Testing", 
-        "Statistical Inference", 
-        "Linear/Logistic Regression", 
+        "A/B Testing",
+        "Statistical Inference",
+        "Linear/Logistic Regression",
         "Customer Profiling",
-        "Decision Trees", 
-        "Bagging (Random Forest)", 
-        "Boosting (AdaBoost, Gradient Boosting, XGBoost)", 
+        "Decision Trees",
+        "Bagging (Random Forest)",
+        "Boosting (AdaBoost, Gradient Boosting, XGBoost)",
         "Stacking"
       ]
     },
@@ -212,17 +223,7 @@
       "name": "DevOps and Agile",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "JIRA", 
-        "Confluence", 
-        "Scrum", 
-        "Kanban", 
-        "SRE", 
-        "SLA", 
-        "OKRs", 
-        "KPIs", 
-        "Postman"
-         ]
+      "keywords": ["JIRA", "Confluence", "Scrum", "Kanban", "SRE", "SLA", "OKRs", "KPIs", "Postman"]
     }
   ],
   "languages": [
