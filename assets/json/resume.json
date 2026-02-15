@@ -24,6 +24,19 @@
   },
   "work": [
     {
+      "name": "Moodys Northwest Consulting",
+      "position": "Senior Program Manager",
+      "url": "",
+      "startDate": "2025-07",
+      "endDate": "",
+      "summary": [
+        "Owned end-to-end solution definition and delivery for 700+ product features, translating complex business and customer needs into scalable, implementation-ready requirements (T-Mobile project)",
+        "Designed and delivered an Azure-based web application for large-scale data migration in financial services, leveraging agentic AI to automate 80% of migration effort and reduce per-client migration time by 70% (FIS Global project)",
+        "Partnered with executive and client stakeholders to drive data-driven decisions, roadmap prioritization, and delivery trade-offs"
+      ],
+      "highlights": ["Highlight skills - Program Management, Azure, Agentic AI, Data Migration"]
+    },
+    {
       "name": "HB Partners, LLC",
       "position": "Technical Program Manager",
       "url": "",
