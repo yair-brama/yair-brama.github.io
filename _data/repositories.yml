@@ -5,9 +5,3 @@ repo_description_lines_max: 2
 
 github_repos:
   - yair-brama/yair-brama.github.io
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
