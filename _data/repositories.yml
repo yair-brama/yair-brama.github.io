@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - yair-brama/yair-brama.github.io
-  - yair-brama/prediction-web-app
-  - yair-brama/flight-agent
-
+  - repo: yair-brama/yair-brama.github.io
+  - repo: yair-brama/prediction-web-app
+  - repo: yair-brama/flight-agent

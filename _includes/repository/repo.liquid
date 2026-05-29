@@ -1,11 +1,17 @@
-{% assign repo_url = include.repository | split: '/' %}
+{% assign repo_url = include.repository.repo | split: '/' %}
+
+{% if include.repository.image %}
+  {% assign card_image = include.repository.image %}
+{% else %}
+  {% assign card_image = "https://avatars.githubusercontent.com/" | append: repo_url[0] | append: "?s=40" %}
+{% endif %}
 
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/{{ include.repository.repo }}" style="text-decoration: none; color: inherit;">
     <div class="card" style="display: inline-block; padding: 1.5rem; border: 1px solid #e1e4e8; border-radius: 6px; max-width: 400px;">
       <img
         alt="{{ repo_url[0] }}"
-        src="https://avatars.githubusercontent.com/{{ repo_url[0] }}?s=40"
+        src="{{ card_image }}"
         style="width: 40px; height: 40px; border-radius: 50%; margin-bottom: 0.5rem;"
       >
       <h4 style="margin: 0;">{{ repo_url[1] }}</h4>
