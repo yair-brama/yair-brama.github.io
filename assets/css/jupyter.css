@@ -14,7 +14,7 @@
     * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
     *
     * https://github.com/material-components/material-components-web
-    * https://material-components-web.appspot.com/elevation.html
+    * https://github.com/material-components/material-components-web/tree/master/packages/mdc-elevation
     */
   --jp-shadow-base-lightness: 0;
 
@@ -193,7 +193,7 @@ body[data-jp-theme-light="false"] {
     * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
     *
     * https://github.com/material-components/material-components-web
-    * https://material-components-web.appspot.com/elevation.html
+    * https://github.com/material-components/material-components-web/tree/master/packages/mdc-elevation
     */
 
   /* The dark theme shadows need a bit of work, but this will probably also require work on the core layout
