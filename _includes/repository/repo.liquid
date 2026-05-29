@@ -3,7 +3,7 @@
 {% if include.repository.image %}
   {% assign card_image = include.repository.image %}
 {% else %}
-  {% assign card_image = "https://avatars.githubusercontent.com/" | append: repo_url[0] | append: "?s=40" %}
+  {% assign card_image = 'https://avatars.githubusercontent.com/' | append: repo_url[0] | append: '?s=40' %}
 {% endif %}
 
 <div class="repo p-2 text-center">
